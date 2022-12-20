@@ -27,7 +27,7 @@ local Window = Rayfield:CreateWindow({
 		FileName = " 👻 SkyScriptKey",
 		SaveKey = false,
 		GrabKeyFromSite = false, -- If this is true, set Key b	elow to the RAW site you would like Rayfield to get the key from
-		Key = "784F521j152T7482D+1487"
+		Key = "lua"
 	}
 })
 
